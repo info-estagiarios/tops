@@ -148,6 +148,7 @@ li:hover {
     font-weight: 600;
     text-decoration: none;
     transition-duration: .25s;
+    font-size: 1.5rem;
 }
 
 .menu__item:hover{
@@ -163,8 +164,8 @@ li:hover {
     margin: 0.5rem;
 }
 
-.icon_menu{
-    width: 1.5rem;
+.icon__menu{
+    width: 1.75rem;
 }
 
 .menu__btn{
