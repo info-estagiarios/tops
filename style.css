@@ -596,6 +596,10 @@ footer{
     .form-msg{
         width: 90%;
     }
+    
+    .copy{
+        font-size: 0.5rem;
+    }
 }
 
 @media (max-width: 370px){
