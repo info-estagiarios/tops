@@ -188,6 +188,10 @@ li:hover {
     width: 90%;
 }
 
+#texto_top_2{
+    display: none;
+}
+
 .content-left h1 {
     font-size: 4.375rem;
     font-weight: 700;
@@ -581,6 +585,14 @@ footer{
     .form-msg{
         width: 35%;
         height: 60vh;
+    }
+
+    #texto_top_1{
+        display: none;
+    }
+
+    #texto_top_2{
+        display: block;
     }
 }
 
