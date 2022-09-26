@@ -605,15 +605,7 @@ footer{
     }
 }
 
-@media (max-width: 880px){
-    .menu{
-        display: none;
-    }
-
-    .hamburger-menu{
-        display: block;
-    }
-
+@media (max-width: 750px){
     .form-msg{
         width: 55%;
     }
@@ -648,6 +640,14 @@ footer{
 @media (max-width: 650px){
     .form-msg{
         width: 65%;
+    }
+    
+    .menu{
+        display: none;
+    }
+
+    .hamburger-menu{
+        display: block;
     }
 }
 
