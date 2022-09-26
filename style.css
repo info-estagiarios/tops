@@ -325,7 +325,6 @@ svg path {
 
 .top_1_text{
     width: 100%;
-    height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -609,6 +608,11 @@ footer{
 @media (max-width: 750px){
     .form-msg{
         width: 55%;
+        height: 45vh;
+    }
+    
+    .top_1{
+        height: 45vh;
     }
 
     .content-footer-left p{
