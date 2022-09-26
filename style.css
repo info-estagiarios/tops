@@ -296,14 +296,13 @@ svg path {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 5rem;
     padding: 2rem;
     margin-bottom: 10rem;
 }
 
 .top_1{
     width: 17.5rem;
-    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -611,10 +610,6 @@ footer{
         height: 45vh;
     }
     
-    .top_1{
-        height: 45vh;
-    }
-
     .content-footer-left p{
         width: 100%;
         font-size: 0.725rem;
