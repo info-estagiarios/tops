@@ -597,7 +597,7 @@ footer{
 @media (max-width: 1025px){
     .form-msg{
         width: 50%;
-        height: 40vh;
+        height: 100vh;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -636,12 +636,7 @@ footer{
     }
     
     .form-msg{
-        width: 75%;
-        height: 100vh;
-    }
-    
-    .form-msg h1{
-        font-size: 0.75rem;
+        width: 55%;
     }
 }
 
