@@ -606,8 +606,7 @@ footer{
 
 @media (max-width: 750px){
     .form-msg{
-        width: 55%;
-        height: 60vh;
+        width: 75%;
     }
     
     .content-footer-left p{
