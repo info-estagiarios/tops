@@ -303,6 +303,7 @@ svg path {
 
 .top_1{
     width: 17.5rem;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
