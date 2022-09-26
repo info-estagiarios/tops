@@ -605,10 +605,6 @@ footer{
 }
 
 @media (max-width: 750px){
-    .form-msg{
-        width: 75%;
-    }
-    
     .content-footer-left p{
         width: 100%;
         font-size: 0.725rem;
@@ -633,6 +629,11 @@ footer{
 
     .copy{
         text-align: center;
+    }
+    
+    .form-msg{
+        width: 55%;
+        height: 50vh;
     }
 }
 
