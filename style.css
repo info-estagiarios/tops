@@ -282,11 +282,8 @@ svg path {
 /*===== CONTEUDO ====*/
 
 .lista-tops{
-    width: 80%;
-}
-
-.lista-tops h1{
-    margin-left: 4.2rem;
+    width: 100%;
+    text-align: center;
 }
 
 .territorios{
