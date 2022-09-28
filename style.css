@@ -286,6 +286,10 @@ svg path {
     text-align: center;
 }
 
+.lista-tops h1 {
+    color: #002e5b;
+}
+
 .territorios{
     width: 100%;
     display: flex;
@@ -553,6 +557,17 @@ footer{
     justify-content: center;
     color: rgba(64,57,81,.63);
 }
+
+.top-btn {
+    all: unset; 
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+    transform:scale(1.8);
+    opacity: 0;
+    transition: .3s;
+  }
 
 /*----Aqui começa a RESPONSIVIDADE do Site----*/
 
