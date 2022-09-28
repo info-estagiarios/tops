@@ -70,6 +70,7 @@ li:hover {
 
 .hamburger-menu{
     display: none;
+    margin-top: -1rem;
 }
 
 #menu__toogle{
@@ -95,8 +96,6 @@ li:hover {
 }
 
 .menu__btn{
-    position: fixed;
-    top: 20px;
     right: 20px;
     width: 26px;
     height: 26px;
@@ -109,7 +108,7 @@ li:hover {
 .menu__btn > span::after{
     display: block;
     position: absolute;
-    width: 100%;
+    width: 26px;
     height: 2px;
     background-color: #616161;
     transition-duration: .25s;
