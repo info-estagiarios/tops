@@ -20,6 +20,7 @@ sr.reveal('.distritos', {duration: 1500})
 sr.reveal('.container-msg', {duration: 1500})
 sr.reveal('.top_1' , {duration: 1500})
 sr.reveal('#text-test' , {duration: 1400})
+sr.reveal('.hamburger-menu' , {duration: 200})
 
 /*====TEXT ANIMATION====*/
 
